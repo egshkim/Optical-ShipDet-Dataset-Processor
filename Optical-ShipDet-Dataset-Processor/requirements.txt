@@ -1,0 +1,12 @@
+# Core dependencies
+numpy>=1.24.0       # For numerical operations
+Pillow>=10.0.0      # For image processing
+opencv-python>=4.8.0  # For OBB processing and visualization
+pandas>=2.0.0       # For CSV file handling (Airbus dataset)
+lxml>=4.9.0         # For XML parsing (FAIR1M dataset)
+tqdm>=4.65.0        # For progress bars
+
+# Optional utilities
+matplotlib>=3.7.0   # For additional visualizations
+scikit-image>=0.21.0  # For image processing utilities
+typing-extensions>=4.5.0  # For type hints in Python 3.7+

@@ -1,7 +1,7 @@
 from UnifiedDatasetProcessor import *
 
 # Setup logging
-setup_logging("kari_dataset_processing.log")
+setup_logging("fair1m.log")
 
 # Create configuration
 config = ProcessingConfig(
